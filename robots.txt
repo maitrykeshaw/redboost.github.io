@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://redboost-supplement.vercel.app
+Sitemap: https://redboost-supplement.vercel.app/sitemap.xml
