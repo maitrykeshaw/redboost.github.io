@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Red Boost™ (Official) Get 86% OFF and Free Shipping",
+  "short_name":"Red Boost™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Red Boost works by unblocking the flow of blood to the cells and also balancing nitric oxide levels.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
